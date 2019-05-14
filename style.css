@@ -1,0 +1,22 @@
+.sideNav {
+    height: 100%;
+    width: 20%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background-color: #92DFF3; 
+    /* or #7AD7F0 */
+}
+
+.sideNav a {
+    display: block;
+    padding: 5px 5px 5px 30px;
+    font-size: 20px;
+    color: darkgrey;
+    text-decoration: none;
+}
+
+.main {
+    padding: 15px;
+}
