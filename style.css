@@ -5,7 +5,7 @@
     top: 0;
     left: 0;
     position: fixed;
-    background-color: #92DFF3; 
+    background-color: rgb(70,198,233); 
     /* or #7AD7F0 */
 }
 
@@ -14,9 +14,18 @@
     padding: 5px 5px 5px 30px;
     font-size: 20px;
     color: darkgrey;
+    /* background-color:  */
     text-decoration: none;
 }
 
 .main {
     padding: 15px;
+    background-color: rgb(229,230,66); 
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 20%;
+    position: fixed;
+
 }
