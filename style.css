@@ -1,31 +1,35 @@
 .sideNav {
     height: 100%;
-    width: 20%;
+    width: 15%;
     z-index: 1;
     top: 0;
     left: 0;
     position: fixed;
-    background-color: rgb(70,198,233); 
+    background-color: rgb(2, 12, 15); 
     /* or #7AD7F0 */
+}
+
+.sideNav ul li {
+    list-style: none;
 }
 
 .sideNav a {
     display: block;
     padding: 5px 5px 5px 30px;
     font-size: 20px;
-    color: darkgrey;
+    color: rgb(196, 227, 240);
     /* background-color:  */
     text-decoration: none;
 }
 
 .main {
     padding: 15px;
-    background-color: rgb(229,230,66); 
+    background-color:  rgb(70,198,233); 
     height: 100%;
     width: 100%;
     z-index: 1;
     top: 0;
-    left: 20%;
+    left: 15%;
     position: fixed;
 
 }
