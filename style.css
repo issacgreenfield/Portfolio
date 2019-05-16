@@ -15,7 +15,7 @@
 
 .sideNav a {
     display: block;
-    padding: 5px 5px 5px 30px;
+    padding: 5px 5px 5px 5px;
     font-size: 20px;
     color: rgb(196, 227, 240);
     /* background-color:  */
@@ -31,5 +31,17 @@
     top: 0;
     left: 15%;
     position: fixed;
+}
+.main h2 {
+    width: 75%;
+    font-family: 'Gotham', 'Proxima Nova', 'Montserrat';
+    padding: 20px 20px 20px 30px;
+    font-size: 35px;
+}
 
+.main p {
+    width: 75%;
+    font-family: 'Gotham', 'Proxima Nova', 'Montserrat';
+    padding: 20px 20px 20px 30px;
+    font-size: 20px;
 }
