@@ -1,32 +1,32 @@
 body {
-  padding: 20px;
+    padding: 20px;
 }
 
 .project-container {
-  width: 700px;
-  height: 300px;
-  text-align: center;
-  background-color:  rgb(70,198,233);  
-  position: relative;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  transform-origin: center center;
+    width: 700px;
+    height: 300px;
+    text-align: center;
+    background-color:  rgb(70,198,233);  
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    transform-origin: center center;
 }
 
 .projects {
-  text-align: center;
-  padding: 20px;
-  resize: both;
-  position: relative;
-  height: 300px;
+    text-align: center;
+    padding: 20px;
+    resize: both;
+    position: relative;
+    height: 300px;
 }
 
 .projects img {
-  padding: 5px;
-  resize: both;
-  position: relative;
-  height: 60px;
+    padding: 5px;
+    resize: both;
+    position: relative;
+    height: 60px;
 }
 
 .projects p {
